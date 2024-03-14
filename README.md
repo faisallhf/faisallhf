@@ -19,8 +19,9 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React JS** - 💬 Ask me about
-**React,C++,Java,Python** - 📫 How to reach me **faisallogical@gmail.com**
+- 🌱 I’m currently learning **React JS**
+ 
+How to reach me **faisallogical@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
