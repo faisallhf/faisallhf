@@ -19,7 +19,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, Java Android **
  
 How to reach me **faisallogical@gmail.com**
 
