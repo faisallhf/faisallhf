@@ -14,9 +14,6 @@
       alt=""
   /></a>
 </p>
-
-- 🌱 I’m currently learning **React JS, Java Android **
- 
 How to reach me **faisallogical@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
