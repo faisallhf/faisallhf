@@ -1,6 +1,5 @@
 <h1 align="center">AOA 👋, I'm Faisal Ishaq Khan</h1>
 <h3 align="center">A passionate Software Engineer from Mianwali</h3>
-<img align="right" alt="Coding" width="400" 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=faisallhf&label=Profile%20views&color=0e75b6&style=flat"
