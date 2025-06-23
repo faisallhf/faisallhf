@@ -40,8 +40,8 @@ How to reach me **faisallogical@gmail.com**
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/flutter-original-wordmark.svg"
-      alt="dart"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original-wordmark.svg"
+      alt="Flutter"
       width="40"
       height="40"
     />
